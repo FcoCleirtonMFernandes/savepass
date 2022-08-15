@@ -8,6 +8,7 @@ import {
 } from '@expo-google-fonts/rubik';
 import { NavigationContainer } from '@react-navigation/native';
 import * as SplashScreen from 'expo-splash-screen';
+
 import * as Font from 'expo-font';
 
 import { AppRoutes } from './src/routes/app.routes';
